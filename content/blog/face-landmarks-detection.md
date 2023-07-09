@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Face Landmarks Detection using CNN"
 description: "Can computers really understand the human face?"
 dateString: May 2020
@@ -349,4 +349,4 @@ Here, you can see that the OpenCV Harr Cascade Classifier has detected multiple 
 If you made it till here, hats off to you! You just trained your very own neural network to detect face landmarks in any image. Try predicting face landmarks on your webcam feed!!
 
 # Colab Notebook
-The complete code can be found in the interactive [Colab Notebook](https://colab.research.google.com/drive/1TOw7W_WU4oltoGZfZ_0krpxmhdFR2gmb).
+The complete code can be found in the interactive [Colab Notebook](https://colab.research.google.com/drive/1TOw7W_WU4oltoGZfZ_0krpxmhdFR2gmb). -->

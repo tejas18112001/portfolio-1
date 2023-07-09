@@ -9,10 +9,7 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
-      weight: 20
+   
     - identifier: projects
       name: Projects
       url: /projects
@@ -21,6 +18,13 @@ menu:
     #   name: Experience
     #   url: /experience
     #   weight: 40
+    
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 20
+
+
     - identifier: search
       name: Search
       url: /search
@@ -49,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "Tejas Raut"
-    subtitle: Hi 👋! I'm Tejas , I am a dedicated and skilled professional with experience in Information Technology, proficient inlanguages such as C++, Java, HTML, CSS, and JavaScript, and equipped with knowledge intechnologies/frameworks like React.js, Firebase. My strength lies in dedication, staying updated, expanding skills, and applying expertise to deliver exceptional results in the IT industry andcontribute to project success.    
+    subtitle: Hi 👋! I'm Tejas , I am a dedicated and skilled professional with experience in Information Technology, proficient inlanguages such as C++, Java, HTML, CSS, and JavaScript, and equipped with knowledge in technologies/frameworks like React.js, Firebase. My strength lies in dedication, staying updated, expanding skills, and applying expertise to deliver exceptional results in the IT industry andcontribute to project success.    
     imageUrl: "home/result.jpg"
     imageWidth: 220
     imageHeight: 220
@@ -75,7 +79,7 @@ params:
     - name: "instagram"
       url: "https://www.instagram.com/tejasraut461/?hl=en"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+      url: "https://drive.google.com/file/d/1Y4nTZKD3PlKNISYYKsVUeUjv9FSxkZYN/view?usp=drive_link"
 
   # text search
   fuseOpts:
