@@ -1,6 +1,6 @@
 baseURL: "https://arkalim.org"
 languageCode: en-us
-title: Abdur Rahman
+title: Tejas Raut
 theme: PaperMod
 
 menu:
@@ -17,10 +17,10 @@ menu:
       name: Projects
       url: /projects
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
-      weight: 40
+    # - identifier: experience
+    #   name: Experience
+    #   url: /experience
+    #   weight: 40
     - identifier: search
       name: Search
       url: /search
@@ -48,9 +48,9 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋! I'm Abdur, an ambitious DevOps Intern at [**16Bit.ai**](https://www.16bit.ai), an innovative healthcare startup in Toronto. Currently pursuing my [**MSc in Applied Computing**](https://mscac.utoronto.ca/) at the esteemed University of Toronto, I bring a solid foundation in Software Engineering with professional experience. I am captivated by the realm of Cloud Computing and DevOps practices, seeking to revolutionize how we deploy applications in the modern era. To enhance my expertise, I have also obtained AWS associate-level certifications as a Solutions Architect and Developer, further bolstering my skills in the cloud computing domain. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, where I share my journey as an international student in Canada 🇨🇦.
-    imageUrl: "home/formal-pic-small.jpeg"
+    title: "Tejas Raut"
+    subtitle: Hi 👋! I'm Tejas , I am a dedicated and skilled professional with experience in Information Technology, proficient inlanguages such as C++, Java, HTML, CSS, and JavaScript, and equipped with knowledge intechnologies/frameworks like React.js, Firebase. My strength lies in dedication, staying updated, expanding skills, and applying expertise to deliver exceptional results in the IT industry andcontribute to project success.    
+    imageUrl: "home/result.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -67,13 +67,13 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "tejasraut461@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/tejasraut461/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/tejas18112001"
+    - name: "instagram"
+      url: "https://www.instagram.com/tejasraut461/?hl=en"
     - name: "cv"
       url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
 
